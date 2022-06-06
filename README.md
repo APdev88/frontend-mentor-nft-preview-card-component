@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/APdev88/frontend-mentor-nft-preview-card-component]
-- Live Site URL: [https://nft-preview-card-component-ap.netlify.app/]
+- Solution URL: [Solution](https://github.com/APdev88/frontend-mentor-nft-preview-card-component)
+- Live Site URL: [Live](https://nft-preview-card-component-ap.netlify.app/)
 
 ## My process
 
